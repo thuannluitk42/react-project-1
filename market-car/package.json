@@ -2,7 +2,7 @@
   "name": "market-car",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thuannluitk42.github.io",
+  "homepage": "https://thuannluitk42.github.io", 
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.10.6",
